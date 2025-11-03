@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:38bdf8&section=header&text=¡Hola!%20Soy%20Jhosban%20Barajas&fontSize=25&fontColor=ffffff&animation=fadeIn&fontAlignY=39&height=160" alt="Header Banner" style="width:100%;max-width:100%;height:140px;object-fit:cover;display:block;" loading="lazy"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:38bdf8&section=header&text=¡Hola!%20Soy%20Jhosban%20Barajas&fontSize=25&fontColor=ffffff&animation=fadeIn&fontAlignY=39&height=160" style="width:100%;max-width:100%;display:block;" loading="lazy"/>
 </p>
 
 <h3 align="center">💻 Backend Developer | Node.js & Java Enthusiast 🚀</h3>
@@ -87,3 +87,4 @@ Trabajo principalmente con **JavaScript** y **Node.js** en el backend, y me enca
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:38bdf8&height=105s&section=footer"
   style="width:100%;max-width:100%;display:block;" loading="lazy"/>
 </p>
+
